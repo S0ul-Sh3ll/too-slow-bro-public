@@ -59,4 +59,4 @@ Game data is exchanged only between phones on the same local network or Bluetoot
 If this policy changes, we will update the effective date above and publish the new version at the same address.
 
 ## 10. Contact
-Questions about this policy or your data: **YOUR_SUPPORT_EMAIL** (replace before publishing) or open an issue on this GitHub repository.
+Questions about this policy or your data: **rishabhdahiya.work@gmail.com** or open an issue on this GitHub repository.
